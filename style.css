@@ -1,0 +1,7 @@
+﻿canvas{
+	display: block;
+	background-image: url(img.jpg);
+	background-size: contain;
+	margin: 0 auto;
+	border:1px solid red;
+}
